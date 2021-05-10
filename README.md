@@ -1,5 +1,9 @@
 # Snapchat-clone-personal-project
 
+
+# Hosting URL:  
+https://snapchat-clone-personal-proj.web.app
+
 # Tech in my project build
 
 1) React
@@ -12,9 +16,6 @@
 8) Deploy using Firebase!
 9) Front-end
 10) Back-end
-
-# Hosting URL:  
-https://snapchat-clone-personal-proj.web.app
 
 # Steps to deploy my project using firebase
 
